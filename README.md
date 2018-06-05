@@ -1,2 +1,2 @@
-# tensorflow_docker_setup
+# Tensorflow docker setup
 Test repo to setup tensorflow docker container
